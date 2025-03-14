@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9090b521-377a-4a04-82c5-21aea5f18f82/deploy-status)](https://app.netlify.com/sites/emotionsgarden/deploys)
+
 # 🌟 Projet Jardin des Emotions en 3D
 
 ## 📖 Description
